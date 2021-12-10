@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @joaovelez
+- 👋 Hi, my name is João Velez from Lisbon,Portugal.
 - 👀 I’m interested in web development. 
 - 🌱 I’m currently learning Back-end dev.
 - 💞️ Right now , i’m looking for a job as a Junior Front-end.
