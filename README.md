@@ -1,7 +1,7 @@
-- 👋 Hi, my name is João Velez from Lisbon,Portugal.
-- 👀 I’m interested in web development. 
-- 🌱 I’m currently learning Back-end dev.
-- 💞️ Right now , i’m looking for a job as a Junior Front-end.
+- 👋 Hi, my name is João Velez and i'm from Lisbon, Portugal.
+- 👀 I’m interested in web development. Both Front and Back-end.
+- 🌱 Always looking for something new to improve my skills.
+- 💞️ Right now , i’m looking for a job as a Junior web dev.
 - 📫 How to reach me : https://www.linkedin.com/in/jo%C3%A3o-velez-52276b213/
 
 <!---
